@@ -1,5 +1,5 @@
 :root {
-  --bg-image: url("./bg-light.png");
+  --bg-image: linear-gradient(to left, #ff914d, #ffdc58);
   --pro-color: white;
   --title-color: #3432c7;
   --roadmap-color: white;
