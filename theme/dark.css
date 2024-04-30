@@ -1,0 +1,9 @@
+:root {
+  --bg-image: url("./bg-dark.png");
+  --pro-color: gold;
+  --title-color: gold;
+  --roadmap-color: white;
+  --content-text: white;
+  --btn-color: white;
+  --card-color: white;
+}
