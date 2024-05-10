@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e540f3d.css",
-    "main.js": "/static/js/main.0bd2378e.js",
+    "main.css": "/static/css/main.18b6f1dd.css",
+    "main.js": "/static/js/main.04c17a70.js",
     "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
     "static/media/6.png": "/static/media/6.a2295c4f6b434514d5b0.png",
     "static/media/19.png": "/static/media/19.9e47b7b343d046c6cc1f.png",
@@ -38,11 +38,7 @@
     "static/media/11.svg": "/static/media/11.46160a94e5e00c65be85f260e25f8592.svg",
     "static/media/16.svg": "/static/media/16.6bf51a5e56097ccd0ff39b2eb75327c9.svg",
     "static/media/21.jpg": "/static/media/21.6e556922879239443ef3.jpg",
-    "static/media/burn-1.png.webp": "/static/media/burn-1.png.c4d77294bd355b80f9f5.webp",
-    "static/media/taxes-1.png.webp": "/static/media/taxes-1.png.a765f5e1bd12f7fe144f.webp",
-    "static/media/supply-1.png.webp": "/static/media/supply-1.png.966f1c169ffc3f991c88.webp",
     "static/media/4.svg": "/static/media/4.e85aa118d0bc433ddc1e2728a96256f0.svg",
-    "static/media/team-1.png.webp": "/static/media/team-1.png.163529ec35ffaf89d1af.webp",
     "static/media/9.svg": "/static/media/9.cd626469019b36d6f063c40e04f60e6f.svg",
     "static/media/5.svg": "/static/media/5.df7f1d3b87b2583c2890b0694a46fae8.svg",
     "static/media/1.svg": "/static/media/1.240c829c81e0f5d44c9c6110ec2a7b88.svg",
@@ -50,12 +46,12 @@
     "static/media/8.svg": "/static/media/8.607911fba997bfeb520509094108f4bc.svg",
     "static/media/14.svg": "/static/media/14.cafd80197060ba6de9505277c4af758a.svg",
     "index.html": "/index.html",
-    "main.0e540f3d.css.map": "/static/css/main.0e540f3d.css.map",
-    "main.0bd2378e.js.map": "/static/js/main.0bd2378e.js.map",
+    "main.18b6f1dd.css.map": "/static/css/main.18b6f1dd.css.map",
+    "main.04c17a70.js.map": "/static/js/main.04c17a70.js.map",
     "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e540f3d.css",
-    "static/js/main.0bd2378e.js"
+    "static/css/main.18b6f1dd.css",
+    "static/js/main.04c17a70.js"
   ]
 }
